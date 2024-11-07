@@ -73,9 +73,9 @@ print(classification_rep)
 
 <H3>Output:</H3>
 
-![323484092-ec3f9be7-62c8-4bdb-9ab1-cd11cbbd657a](https://github.com/Hezron-lix/EX-6-NN/assets/139331337/013f3379-40d5-42e1-809c-867d11111aad)
+![image](https://github.com/user-attachments/assets/9a880072-fd0a-4f99-900a-f71248a090c9)
+![image](https://github.com/user-attachments/assets/0518b8d3-7420-4ba1-a991-a46c9ccbfaf8)
 
-![323484151-b550a1ee-6e9e-411b-b46a-c05227617506](https://github.com/Hezron-lix/EX-6-NN/assets/139331337/589a28df-697e-4dc2-b8c8-6d5613a01aa4)
 
 <H3>Results:</H3>
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
